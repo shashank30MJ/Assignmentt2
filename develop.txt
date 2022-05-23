@@ -1,2 +1,5 @@
-Hi how r u
-This is my first project
+public class {
+   public static void main(String[] args) {
+    System.out.println("Hi how r u this is shashank");
+    }
+}
